@@ -1,0 +1,22 @@
+{
+  "name": "luis-de-la-ossa-diaz",
+  "version": "0.0.1",
+  "description": "Backend para la web",
+  "main": "index.js",
+  "author": "Luis De La Ossa Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.20.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.18.1",
+    "global": "^4.4.0",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.3",
+    "mongoose": "^6.4.2",
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}

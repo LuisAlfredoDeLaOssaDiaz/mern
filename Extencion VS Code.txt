@@ -1,0 +1,11 @@
+Bracket Pair Colorizer
+ES/ React/Redux/GraphQL/React-Native snipper
+HTML Snippets
+Intellisense for css classe names in HTML
+JavaScript (ES6)
+Material Icon Theme
+Night Owl
+Path Intellisense
+Prettier - Code formatter
+Rainbow CSV
+Settings Sync

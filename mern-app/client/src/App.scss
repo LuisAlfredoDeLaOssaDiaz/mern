@@ -1,0 +1,16 @@
+@import './scss/index.scss';
+
+.App {
+    background-color: $primary-color;
+    h1 {
+      color: green;
+    }
+    h2 {
+      color: yellow;
+  
+      span {
+        font-weight: 200;
+      }
+    }
+  }
+  

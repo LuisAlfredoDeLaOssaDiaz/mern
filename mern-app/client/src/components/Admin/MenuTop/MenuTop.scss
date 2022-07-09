@@ -1,0 +1,47 @@
+@import "../../../scss/index.scss";
+
+.menu-top {
+  button {
+    background: transparent;
+    margin: 40% 0 0 0;
+    border: none;
+    color: $font-light;
+
+    &:hover {
+        color: $primary-color;
+    }
+    &:focus, &:active {
+        color: $font-light;
+    }
+
+  }
+
+  &__left {
+    &-logo {
+        width: 180px;
+        height: 30px;
+        padding: 0px;
+        margin: 17px 0 0 5px;
+    }
+    display: flex;
+    &__div {
+      &__button {
+        &__MenuUnfoldOutlined {
+          color: #ffffff;
+        }
+      }
+    }
+  }
+
+  &__right {
+      &__div {
+        position: absolute;
+        right: 0;
+      &__button {
+        &__PoweroffOutlined {
+          color: #ff0000;
+        }
+      }
+    }
+  }
+}

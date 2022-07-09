@@ -1,0 +1,14 @@
+server = {
+    "bcrypt-nodejs": "sirve para encriptar las contraseñas"
+    "body-parser": "pasar informaicon para pasar informacion en el body en las peticiones http cuando se use express"
+    "connect-multiparty" : "sirve para subir imagenes al servidor"
+    "express" : "para crear el sistema de rutas"
+    "jwt-simple"  : "sirve para codificar, decodificar tokens y ver su informacion"
+    "moment" : "para manejar las fechas y horas"
+    "moongoose" : "es el ODM para hacer peticiones, hacer los modelos de esquemas y conexion con la base de datos de mongo"
+}
+
+client = {
+    "react-router-dom" : "sirve para el manejo de las rutas"
+}
+
